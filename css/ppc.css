@@ -14,8 +14,11 @@
   	margin: 0px;
 }
 
+#logo, #tollfree {
+  display: inline-block;
+}
+
 #logo {
-	display: inline-block;
 	width:550px;
 	height:100px;
 	background: url(../images/logo.png) no-repeat;
@@ -27,7 +30,6 @@
 }
 
 #tollfree {
-	display: inline-block;
 	position:relative;
 	bottom:30px;
 	left:70px;
